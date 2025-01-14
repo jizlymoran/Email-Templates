@@ -1,9 +1,9 @@
 ---
-title: 'Scenario B: Request for an Exc'
+title: 'Scenario_B'
 
 ---
 
-**Scenario B: Request for an Excused Absence Due to Family Emergency**
+# Scenario B: Request for an Excused Absence Due to Family Emergency
 
 Hi Mary,
 
