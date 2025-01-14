@@ -3,7 +3,7 @@ title: Scenario_D
 
 ---
 
-**Scenario D: Request for a Deadline Extension**
+# Scenario D: Request for a Deadline Extension
 
 Hi Alice,
 
