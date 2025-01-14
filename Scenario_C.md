@@ -3,7 +3,7 @@ title: Scenario_C
 
 ---
 
-**Scenario C: Student Submitted their Assignment Late**
+# Scenario C: Student Submitted their Assignment Late
 
 Hi Lara,
 
