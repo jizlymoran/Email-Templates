@@ -3,7 +3,7 @@ title: Scenario_A
 
 ---
 
-#Scenario A: Request for an Excused Absence Due to Injury
+# Scenario A: Request for an Excused Absence Due to Injury
 
 
 Hi John,
